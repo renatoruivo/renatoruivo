@@ -7,6 +7,7 @@ Nos tempos vagos me aventuro em C e flask.
 
 ## 📑 Certificações 📑
 Databricks - Certificações e Badges:<br>
+- [Solutions Architect Champion](https://credentials.databricks.com/00fc5c00-2d51-48d2-8146-1d2e3adf6bb2)<br>
 - [Data Engineer Professional](https://credentials.databricks.com/7b96aaaa-be06-49e8-84dc-3eaaacd144f3)<br>
 - [Data Engineer Associate](https://credentials.databricks.com/f3a72cb2-9ae9-41f4-88d9-ab19741c6097)<br>
 - [Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/85431cce-c70d-4c42-927c-08cb84a23428)<br>
